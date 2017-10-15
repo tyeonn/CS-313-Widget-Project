@@ -1,0 +1,39 @@
+Bookkeeping: 150 @ 1.34
+Bookkeeping: 25 @ 1.32
+Total cost: $234.00
+Sold to customer: 175 widgets @ ($1.34 * 140%)= $328.30
+
+Bookkeeping: 100 @ 1.37
+Total cost: $137.00
+Sold to customer: 100 widgets @ ($1.37 * 140%)= $191.80
+
+Bookkeeping: 50 @ 1.38
+Bookkeeping: 75 @ 1.37
+Total cost: $171.75
+Sold to customer: 125 widgets @ ($1.38 * 140%)= $241.50
+
+Bookkeeping: 75 @ 1.37
+Bookkeeping: 75 @ 1.32
+Total cost: $201.75
+Sold to customer: 150 widgets @ ($1.38 * 140%)= $289.80
+
+Bookkeeping: 100 @ 1.32
+Total cost: $132.00
+Sold to customer: 100 widgets @ ($1.38 * 140%)= $193.20
+
+Bookkeeping: 100 @ 1.4
+Total cost: $140.00
+Sold to customer: 100 widgets @ ($1.38 * 140%)= $193.20
+
+Bookkeeping: 50 @ 1.45
+Total cost: $72.50
+Sold to customer: 50 widgets @ ($1.38 * 140%)= $96.60
+
+Bookkeeping: 75 @ 1.48
+Total cost: $111.00
+Sold to customer: 75 widgets @ ($1.40 * 140%)= $147.00
+
+Bookkeeping: 50 @ 1.48
+Total cost: $74.00
+Sold to customer: 50 widgets @ ($1.48 * 140%)= $103.60
+
